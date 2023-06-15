@@ -28,7 +28,7 @@ Hey there, This is Azi
 - I am currently immersed in learning Deep Learning and NLP.
 - I actively engage in freelance projects during my free time.
 - I'm open to collaboration on projects. Feel free to send me a message on : [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azadehalmasi/)
-
+---
 ### Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
