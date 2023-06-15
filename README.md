@@ -1,6 +1,6 @@
 <h1>
-Hey there
-I am Azi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+Hey there, This is Azi
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 <div id="header" align="center">
@@ -22,10 +22,16 @@ I am Azi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 <img src="https://komarev.com/ghpvc/?username=azadealmasi&style=flat-square&color=blue" alt=""/>
 
 </div>
+---
 
-<h1>
-  Hey there, This is Azi
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+### :woman_technologist: About Me :
+- :nerd_face: I’m a Data Scientist.
+
+- :sunglasses: I am currently immersed in learning Deep Learning and NLP.
+
+- :zap: I actively engage in freelance projects during my free time.
+
+- :mailbox: I'm open to collaboration on projects. Feel free to send me a message on : [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+
 
 
