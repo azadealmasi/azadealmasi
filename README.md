@@ -22,8 +22,8 @@ Hey there, This is Azi
 <img src="https://komarev.com/ghpvc/?username=azadealmasi&style=flat-square&color=blue" alt=""/>
 
 </div>
----
 
+---
 ### :woman_technologist: About Me :
 - :nerd_face: I’m a Data Scientist.
 
@@ -31,7 +31,7 @@ Hey there, This is Azi
 
 - :zap: I actively engage in freelance projects during my free time.
 
-- :mailbox: I'm open to collaboration on projects. Feel free to send me a message on : [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox: I'm open to collaboration on projects. Feel free to send me a message on : [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/azadehalmasi/)
 
 
 
