@@ -31,7 +31,7 @@ Hey there, This is Azi
 
 - :zap: I actively engage in freelance projects during my free time.
 
-- :mailbox: I'm open to collaboration on projects. Feel free to send me a message on : [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/azadehalmasi/)
+- :mailbox: I'm open to collaboration on projects. Feel free to send me a message on : [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azadehalmasi/)
 
 
 
