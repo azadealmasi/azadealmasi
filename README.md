@@ -3,7 +3,7 @@ Hey there, this is Azi
 </h1>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/eDDrmbtY0aSAII8ffT/giphy.gif" width="500"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/azadehalmasi/">
@@ -24,7 +24,7 @@ Hey there, this is Azi
 
 ---
 ### About Me
-- I’m a Data Scientist.
+I specialize in creating data-driven solutions by leveraging advanced analytics, statistical modelling, machine learning, and data visualization techniques. My goal is to drive business growth and improve decision-making. I also enjoy working with cross-functional teams and stakeholders to understand and meet the specific needs and challenges of each project.
 - I am currently immersed in learning Deep Learning and NLP.
 - I actively engage in freelance projects during my free time.
 - I'm open to collaboration on projects. Feel free to contact me on : **azadealmasi@gmail.com**
