@@ -1,9 +1,11 @@
-<h1>
+<div style="background-color: lightblue;">
+
+<h1 style="background-color: coral;" >
 Hey there, this is Azi
 </h1>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/TLnWsIBRegQyWxG4Dw/giphy.gif" width="500"/>
+<div id="header" align="center" >
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenZxbDhrOWJkejZxdGc2am5pd2o0OHZlMXd4MjVkeWVoanNwcjBveiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/57nf4oyyMmZ2L9QqJN/giphy.gif" width="500"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/azadehalmasi/">
@@ -44,7 +46,6 @@ I specialize in creating data-driven solutions by leveraging advanced analytics,
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Dark.svg" title="Eclips" alt="Eclips" width="40" height="40"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" title="Eclips" alt="Eclips" width="40" height="40"/>
 
-</div>
 
 
-
+  </div>
