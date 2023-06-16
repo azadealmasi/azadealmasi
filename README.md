@@ -3,7 +3,7 @@ Hey there, this is Azi
 </h1>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/eDDrmbtY0aSAII8ffT/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/TLnWsIBRegQyWxG4Dw/giphy.gif" width="500"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/azadehalmasi/">
