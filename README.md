@@ -1,5 +1,5 @@
 <h1>
-Hey there, This is Azi
+Hey there, this is Azi
 </h1>
 
 <div id="header" align="center">
@@ -23,13 +23,13 @@ Hey there, This is Azi
 </div>
 
 ---
-### About Me :
+### About Me
 - I’m a Data Scientist.
 - I am currently immersed in learning Deep Learning and NLP.
 - I actively engage in freelance projects during my free time.
-- I'm open to collaboration on projects. Feel free to send me a message on : **azadealmasi@gmail.com**
+- I'm open to collaboration on projects. Feel free to contact me on : **azadealmasi@gmail.com**
 ---
-### Languages and Tools :
+### Languages and Tools
 <div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" title="Hive" alt="Hive" width="40" height="40"/>&nbsp;
@@ -37,9 +37,10 @@ Hey there, This is Azi
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="Seaborn" alt="Seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" title="Hadoop" alt="Hadoop" width="40" height="40"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" title="Python" alt="python" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Dark.svg" title="Eclips" alt="Eclips" width="40" height="40"/>
 </div>
 
 
