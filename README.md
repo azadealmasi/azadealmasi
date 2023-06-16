@@ -38,7 +38,7 @@ Hey there, this is Azi
   <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" title="Hive" alt="Hive" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="Seaborn" alt="Seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Dark.svg" title="Eclips" alt="Eclips" width="40" height="40"/>
