@@ -1,35 +1,40 @@
 
+<img align="right"  src="https://user-images.githubusercontent.com/53329034/123502306-0fcdfc80-d669-11eb-87e4-d24cccfbbd00.gif" />
+
 
 <h1 style="background-color: coral;" >
 Azi in a nutshell
 </h1>
 
-<div id="header" align="center" >
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenZxbDhrOWJkejZxdGc2am5pd2o0OHZlMXd4MjVkeWVoanNwcjBveiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/57nf4oyyMmZ2L9QqJN/giphy.gif" width="500"/>
-</div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/azadehalmasi/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=azadealmasi&style=flat-square&color=blue" alt=""/>
 
-</div>
 
----
-### About Me
+<div align="justify">
+
 I specialize in creating data-driven solutions by leveraging advanced analytics, statistical modelling, machine learning, and data visualization techniques. My goal is to drive business growth and improve decision-making. I also enjoy working with cross-functional teams and stakeholders to understand and meet the specific needs and challenges of each project.
 - I am currently immersed in learning Deep Learning and NLP.
 - I actively engage in freelance projects during my free time.
-- I'm open to collaboration on projects. Feel free to contact me on : **azadealmasi@gmail.com**
+- I'm open to collaboration on projects. Feel free to contact me at: **azadealmasi@gmail.com**
+</div>
+
+---
+### Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/jayapritha-n-32aa79185/">
+   <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+  </a>
+  <a href="https://www.instagram.com/ja_yo.pritha/">
+    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
+  </a>
+  <a href="https://www.facebook.com/jaya.pritha.777/">
+      <img src="https://img.icons8.com/color/48/000000/facebook.png"/>
+  </a>
+  <a href="mailto:jayapritha9282@gmail.com">
+     <img src="https://img.icons8.com/color/48/000000/gmail.png"/>
+  </a>
+</p>
+
 ---
 ### Languages and Tools
 <div>
@@ -44,8 +49,25 @@ I specialize in creating data-driven solutions by leveraging advanced analytics,
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Dark.svg" title="Eclips" alt="Eclips" width="40" height="40"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" title="Eclips" alt="Eclips" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" title="Eclips" alt="Eclips" width="40" height="40"/> </div>
 
+---
+### Azi's Github Stats
 
+<!--
+[![Azi's github stats](https://github-readme-stats.vercel.app/api?username=azadealmasi&show_icons=true&theme=gruvbox)](https://github.com/azadealmasi/azadealmasi)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azadealmasi&layout=compact&theme=gruvbox)](https://github.com/azadealmasi/azadealmasi)
+-->
 
-  </div>
+<p>
+    <a align="left" href="https://github.com/azadealmasi/azadealmasi">
+        <img alt="Azi's github stats"  width="54%" src="https://github-readme-stats.vercel.app/api?username=azadealmasi&show_icons=true&theme=gruvbox">
+    </a>
+    <a align="right" href="https://github.com/azadealmasi/azadealmasi">
+        <img alt="Azi's github stats"  width="41.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azadealmasi&layout=compact&theme=gruvbox">
+    </a>
+   <!--img src = "https://github-readme-streak-stats.herokuapp.com?user=azadealmasi&theme=onedark&hide_border=true"-->
+
+</p>
+
+  
+
