@@ -21,16 +21,16 @@ I specialize in creating data-driven solutions by leveraging advanced analytics,
 ### Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/jayapritha-n-32aa79185/">
+  <a href="https://www.linkedin.com/in/azadehalmasi/">
    <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
   </a>
-  <a href="https://www.instagram.com/ja_yo.pritha/">
+  <a href="https://www.instagram.com/azade_almasi/">
     <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
   </a>
-  <a href="https://www.facebook.com/jaya.pritha.777/">
+  <a href="https://www.facebook.com//">
       <img src="https://img.icons8.com/color/48/000000/facebook.png"/>
   </a>
-  <a href="mailto:jayapritha9282@gmail.com">
+  <a href="mailto:azadealmasi@gmail.com">
      <img src="https://img.icons8.com/color/48/000000/gmail.png"/>
   </a>
 </p>
