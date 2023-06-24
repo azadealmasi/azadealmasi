@@ -27,12 +27,13 @@ I specialize in creating data-driven solutions by leveraging advanced analytics,
   <a href="https://www.instagram.com/azade_almasi/">
     <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
   </a>
-  <a href="https://www.facebook.com//">
-      <img src="https://img.icons8.com/color/48/000000/facebook.png"/>
-  </a>
   <a href="mailto:azadealmasi@gmail.com">
      <img src="https://img.icons8.com/color/48/000000/gmail.png"/>
   </a>
+  <a href="https://www.facebook.com//">
+      <img src="https://img.icons8.com/color/48/000000/facebook.png"/>
+  </a>
+ 
 </p>
 
 ---
