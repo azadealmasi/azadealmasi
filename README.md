@@ -53,22 +53,7 @@ I specialize in creating data-driven solutions by leveraging advanced analytics,
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" title="Eclips" alt="Eclips" width="40" height="40"/> </div>
 
 ---
-### Azi's Github Stats
 
-<!--
-[![Azi's github stats](https://github-readme-stats.vercel.app/api?username=azadealmasi&show_icons=true&theme=gruvbox)](https://github.com/azadealmasi/azadealmasi)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azadealmasi&layout=compact&theme=gruvbox)](https://github.com/azadealmasi/azadealmasi)
--->
-
-<p>
-    <a align="left" href="https://github.com/azadealmasi/azadealmasi">
-        <img alt="Azi's github stats"  width="54%" src="https://github-readme-stats.vercel.app/api?username=azadealmasi&show_icons=true&theme=gruvbox">
-    </a>
-    <a align="right" href="https://github.com/azadealmasi/azadealmasi">
-        <img alt="Azi's github stats"  width="41.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azadealmasi&layout=compact&theme=gruvbox">
-    </a>
-   <!--img src = "https://github-readme-streak-stats.herokuapp.com?user=azadealmasi&theme=onedark&hide_border=true"-->
-
-</p>
 
   
 
