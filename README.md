@@ -22,14 +22,11 @@ Data scientist with two years of experience at SYNTECH, where I have designed an
   <a href="https://www.linkedin.com/in/azadehalmasi/">
    <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
   </a>
-  <a href="https://www.instagram.com/azade_almasi/">
+  <a href="https://www.instagram.com/azadealmasi.pv/">
     <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
   </a>
   <a href="mailto:azadealmasi@gmail.com">
      <img src="https://img.icons8.com/color/48/000000/gmail.png"/>
-  </a>
-  <a href="https://www.facebook.com//">
-      <img src="https://img.icons8.com/color/48/000000/facebook.png"/>
   </a>
  
 </p>
