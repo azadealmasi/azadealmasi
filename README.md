@@ -11,10 +11,8 @@ Azi in a nutshell
 
 <div align="justify">
 
-I specialize in creating data-driven solutions by leveraging advanced analytics, statistical modelling, machine learning, and data visualization techniques. My goal is to drive business growth and improve decision-making. I also enjoy working with cross-functional teams and stakeholders to understand and meet the specific needs and challenges of each project.
-- I am currently immersed in learning Deep Learning and NLP.
-- I actively engage in freelance projects during my free time.
-- I'm open to collaboration on projects. Feel free to contact me at: **azadealmasi@gmail.com**
+Data scientist with two years of experience at SYNTECH, where I have designed and implemented end-to-end data science projects. My background across diverse industries, including fintech, health, e-commerce, and game development in product management, enriches my ability to translate complex data insights into actionable strategies that deliver measurable business outcomes. This combined skillset allows me to effectively bridge the gap between business needs and data-driven solutions. Proficient in machine learning, deep learning, data wrangling, analysis, and visualization, with a strong track record of communicating technical findings to both technical and non-technical stakeholders. Thrives in dynamic environments and excels in collaborative, cross-functional teams.
+
 </div>
 
 ---
