@@ -11,7 +11,9 @@ Azi in a nutshell
 
 <div align="justify">
 
-Data scientist with two years of experience at SYNTECH, where I have designed and implemented end-to-end data science projects. My background across diverse industries, including fintech, health, e-commerce, and game development in product management, enriches my ability to translate complex data insights into actionable strategies that deliver measurable business outcomes. This combined skillset allows me to effectively bridge the gap between business needs and data-driven solutions. Proficient in machine learning, deep learning, data wrangling, analysis, and visualization, with a strong track record of communicating technical findings to both technical and non-technical stakeholders. Thrives in dynamic environments and excels in collaborative, cross-functional teams.
+Data Scientist with three years of experience at SYNTECH, where I have delivered end-to-end data science projects across diverse industries, including health, fintech, e-commerce, and gaming. My expertise in product management enables me to translate complex data insights into actionable strategies, driving measurable business impact. Proficient in machine learning, deep learning, data wrangling, analysis, and visualisation, I bring a proven ability to bridge the gap between business objectives and data-driven solutions. Adept at communicating technical findings to both technical and non-technical audiences, I have consistently driven meaningful improvements to business outcomes in the organisations I have contributed to.
+
+
 
 </div>
 
