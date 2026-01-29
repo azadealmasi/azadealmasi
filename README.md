@@ -11,7 +11,11 @@ Azi in a nutshell
 
 <div align="justify">
 
-Data Analyst/Data Scientist with more than four years of experience in Python, SQL, Power BI, Tableau, machine learning, deep learning, and NLP. I specialise in transforming complex datasets into clear insights, predictive models, and automated dashboards that drive smarter decision-making. My experience spans business intelligence, marketing analytics, and healthcare AI, delivering impact through churn prediction, A/B testing, forecasting, and advanced deep learning models. Skilled in ETL automation, KPI reporting, data modelling, and presenting insights to stakeholders across technical and non-technical teams.
+Data Scientist & Analytics with 4+ years of experience delivering business-focused analytics and applied data science solutions across commercial and operational domains. My career spans applied data science and business analytics roles, allowing me to bridge predictive modelling with decision-focused analytics.
+
+I have hands-on experience using Python and SQL for data analysis, statistical modelling, forecasting, and experimentation, and I enjoy working with complex datasets to uncover insights that drive measurable business impact. My work includes building predictive models, analysing experiments (A/B testing), and translating analytical outputs into clear, actionable recommendations for non-technical stakeholders.
+
+I am particularly interested in roles where analytics and data science are applied pragmatically to real-world business problems, with an emphasis on interpretability, collaboration, and impact rather than theory alone.
 
 
 
