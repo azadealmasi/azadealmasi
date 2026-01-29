@@ -38,3 +38,6 @@ I work at the intersection of predictive modelling, experimentation, and BI, usi
 
 ### Languages
 English · Persian · French
+
+
+<img src="https://raw.githubusercontent.com/pythondeveloper6/pythondeveloper6/output/snake.svg" alt="Snake animation" />
