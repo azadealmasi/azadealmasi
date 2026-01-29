@@ -1,5 +1,3 @@
-![DATA](./data-grid.svg)
-
 ## Azi  
 **Data Scientist & Analytics**
 
