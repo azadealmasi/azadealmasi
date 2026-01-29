@@ -1,70 +1,75 @@
-<img align="right" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="350"/>
+<table>
+  <tr>
+    <td width="65%" valign="top">
 
-<h1 style="background-color: coral;">
-Azi in a nutshell
-</h1>
+<h1>Azi in a nutshell</h1>
 
-<div align="justify">
-
-Data Scientist & Analytics professional with 4+ years of experience delivering <b>business-driven analytics and applied data science solutions</b> across commercial, product, and operational domains.
-
-My background spans <b>predictive modelling, experimentation, and BI</b>, allowing me to bridge advanced analytics with decision-focused insights. I have hands-on experience using <b>Python, SQL, and R</b> for statistical modelling, forecasting, A/B testing, and machine learning, and I enjoy working with complex, real-world datasets to uncover insights that lead to <b>measurable business impact</b>.
-
-I have built and evaluated regression, classification, and time-series models, performed feature engineering and model evaluation, and translated analytical outputs into <b>clear, actionable recommendations</b> for non-technical stakeholders. Alongside data science, I have delivered end-to-end analytics and BI solutions, including <b>dashboarding, KPI design, and data modelling</b>.
-
-I am particularly interested in roles where data science and analytics are applied <b>pragmatically</b> to solve real business problems — with an emphasis on <b>interpretability, collaboration, and impact</b>, rather than theory alone.
-
-</div>
-
----
-
-### Connect with me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/azadehalmasi/">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
-  </a>
-  <a href="https://www.instagram.com/azadealmasi.pv/">
-    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
-  </a>
-  <a href="mailto:azadealmasi@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png"/>
-  </a>
+<p align="justify">
+Data Scientist & Analytics professional with <b>4+ years</b> of experience delivering <b>business-driven analytics and applied data science solutions</b> across commercial, product, and operational domains.
 </p>
 
----
+<p align="justify">
+My background spans <b>predictive modelling, experimentation, and BI</b>, allowing me to bridge advanced analytics with decision-focused insights. I work with <b>Python, SQL, and R</b> across statistical modelling, forecasting, A/B testing, and machine learning—turning complex data into <b>clear, actionable recommendations</b> and measurable business impact.
+</p>
 
-### Languages and Tools
+<p align="justify">
+I’m especially interested in pragmatic, impact-focused roles where analytics and data science support real business decisions—with an emphasis on <b>interpretability, collaboration, and delivery</b>.
+</p>
 
-<div>
+<b>Highlights</b>
+<ul>
+  <li>Predictive modelling: regression, classification, time-series</li>
+  <li>Experimentation & inference: hypothesis testing, A/B testing</li>
+  <li>BI & analytics: KPI design, dashboards, stakeholder reporting</li>
+</ul>
 
-  <!-- Programming & Query -->
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" title="Python" width="40" height="40"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/R-Dark.svg" title="R" width="40" height="40"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" title="SQL" width="40" height="40"/>
+    </td>
+    <td width="35%" align="center" valign="top">
+      <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="280" alt="Python coding gif" />
+      <br/><br/>
+      <a href="https://www.linkedin.com/in/azadehalmasi/">
+        <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+      </a>
+      <a href="https://www.instagram.com/azadealmasi.pv/">
+        <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/>
+      </a>
+      <a href="mailto:azadealmasi@gmail.com">
+        <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-  <!-- Data Science -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" title="NumPy" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" title="Pandas" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" title="Scikit-learn" width="40" height="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="Seaborn" width="40" height="40"/>
+<hr/>
 
-  <!-- BI & Visualisation -->
-  <img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" title="Power BI" width="40" height="40"/>
-  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/tableau.svg" title="Tableau" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="Excel / Data Modelling" width="40" height="40"/>
+<h3>Languages and Tools</h3>
+
+<p>
+  <!-- Core -->
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" title="Python" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/R-Dark.svg" title="R" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" title="SQL" width="42" height="42"/>
+
+  <!-- Data stack -->
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NumPy-Dark.svg" title="NumPy" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Pandas-Dark.svg" title="Pandas" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ScikitLearn-Dark.svg" title="Scikit-learn" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Jupyter-Dark.svg" title="Jupyter Notebook" width="42" height="42"/>
 
   <!-- Workflow -->
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" title="Git" width="40" height="40"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" title="VS Code" width="40" height="40"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jupyter-Dark.svg" title="Jupyter Notebook" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" title="Git" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" title="VS Code" width="42" height="42"/>
 
-</div>
+  <!-- BI (use PNG for reliability) -->
+  <img src="https://img.icons8.com/color/48/power-bi.png" title="Power BI" width="42" height="42"/>
+  <img src="https://img.icons8.com/color/48/tableau-software.png" title="Tableau" width="42" height="42"/>
+</p>
 
----
+<hr/>
 
-### Languages
-
-- 🇬🇧 English (Professional)
-- 🇮🇷 Persian (Native)
-- 🇫🇷 French (Conversational)
+<h3>Languages</h3>
+<ul>
+  <li>🇬🇧 English (Professional)</li>
+  <li>🇮🇷 Persian (Native)</li>
+  <li>🇫🇷 French (Conversational)</li>
+</ul>
