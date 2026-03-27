@@ -1,16 +1,16 @@
 ## Azi  
 **Data Scientist & Analytics**
 
-Data Scientist with 4+ years of experience delivering business-driven analytics and applied data science solutions across commercial, product, and operational domains.
+Data Scientist & Analytics with 4+ years of experience delivering business-driven analytics and applied data science solutions across commercial, product, and operational domains.
 
-I work at the intersection of predictive modelling, experimentation, and BI, using Python, SQL, and R to turn complex data into clear, actionable insights. My focus is on pragmatic, interpretable solutions that support real decision-making and measurable business impact.
+I work at the intersection of predictive modelling, experimentation, and BI, using Python, SQL, Tableau, and Power BI to turn complex data into clear, actionable insights. My focus is on pragmatic, interpretable solutions that support real decision-making and measurable business impact.
 
 ---
 
 ### Focus
 - Predictive modelling (regression, classification, time-series)
 - Experimentation & inference (A/B testing, hypothesis testing)
-- BI & analytics (KPI design, dashboards, stakeholder reporting)
+- BI & analytics (KPI design, dashboard development, stakeholder reporting, presentation)
 
 ---
 
